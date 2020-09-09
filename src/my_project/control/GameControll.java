@@ -10,4 +10,5 @@ public class GameControll {
         vC = viewControll;
     }
 
+    
 }
